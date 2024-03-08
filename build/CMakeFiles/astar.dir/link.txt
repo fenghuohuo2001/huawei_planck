@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/astar.dir/A_star_main.cpp.o  -o astar  libastar_demo.a 

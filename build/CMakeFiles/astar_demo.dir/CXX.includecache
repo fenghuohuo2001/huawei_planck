@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/WorkDirectory/competition/huawei_software/project/A_star.cpp
+math.h
+-
+A_star.h
+/mnt/d/WorkDirectory/competition/huawei_software/project/A_star.h
+
+/mnt/d/WorkDirectory/competition/huawei_software/project/A_star.h
+vector
+-
+list
+-
+

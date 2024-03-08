@@ -1,0 +1,4 @@
+/mnt/d/WorkDirectory/competition/huawei_software/project/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/WorkDirectory/competition/huawei_software/project/build/CMakeFiles/astar.dir
+/mnt/d/WorkDirectory/competition/huawei_software/project/build/CMakeFiles/edit_cache.dir
+/mnt/d/WorkDirectory/competition/huawei_software/project/build/CMakeFiles/astar_demo.dir
